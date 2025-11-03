@@ -62,3 +62,10 @@ Analyze a Steam library to discover key insights about games, playtime, develope
 
 
 ---
+
+## 🔎 Key Insights
+
+- Action games have the highest total playtime (~7929 hours), showing that players spend the most time on fast paced genres.  
+- Games released in the 2010s dominate the library, accounting for ~60% of all titles.
+- Games priced above $30 were played 10x more than games priced between $10-$30
+- ~ %2.35 of games have more than 50 hours of playtime.
