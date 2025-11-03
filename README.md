@@ -1,6 +1,6 @@
 ## Steam Library Dashboard
 
-An interactive Power BI dashboard analyzing a personal Steam game library. This project demonstrates SQL data handling, DAX measures, and interactive visualizations to uncover insights about game playtime, genres, developers, and pricing trends. Perfect for showcasing data analytics and visualization skills.
+An interactive Power BI dashboard analyzing a personal Steam game library. This project demonstrates Python's pandas webscraping techniques, SQL data handling, and interactive visualizations to uncover insights about game playtime, genres, developers, and pricing trends. Perfect for showcasing data analytics and visualization skills.
 
 ---
 
