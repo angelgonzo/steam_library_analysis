@@ -58,7 +58,7 @@ Analyze a Steam library to discover key insights about games, playtime, develope
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard_screenshot.png)  
+![Dashboard Screenshot](./images/steam_library_dashboard.pdf)  
 
 
 ---
